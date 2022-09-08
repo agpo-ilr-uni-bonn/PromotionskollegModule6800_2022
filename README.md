@@ -1,6 +1,7 @@
 # PromotionskollegModule6800_2022
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
 September 19-23, 2022 (in presence in Bonn, Nussallee 19, seminar room)
+[Note: Slides and videos related to an earlier online version of the course can be found under https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021]
 
 ### Instructors 
 Kathy Baylis - University of California, Santa Barbara, USA
@@ -14,7 +15,7 @@ Hugo Storm - University of Bonn, Germany
 - [Intro slides](https://docs.google.com/presentation/d/1y5iono-CsO2mPmB-yU7PqYTYPmlMHBLME5afiJw-1Ls/edit?usp=sharing)
 - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/labIntro.ipynb)
 
-### Links to Day 1 material 
+<!--- ### Links to Day 1 material 
 
 - [Day 1 slides](https://docs.google.com/presentation/d/1K8LWWnomUNXvcnbXxn3eFeeFMTlWYaGFrwLrW0ifjBQ/edit?usp=sharing)
 - [Day 1 video part I - Intro to ML with OLS](https://youtu.be/0dJmWUDkzNY)
@@ -56,4 +57,4 @@ Hugo Storm - University of Bonn, Germany
 - [Day 5 video part I - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
 - [Day 5 video part II - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
 - [Day 5 video part III - Double ML, Panel, Deep IV](https://youtu.be/tWmqwULSPWw)
-- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day4-5.ipynb)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day4-5.ipynb)--->
