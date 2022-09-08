@@ -12,7 +12,7 @@ Hugo Storm - University of Bonn, Germany
 
 ### Links to Intro material
 
-- [Intro slides](https://docs.google.com/presentation/d/1y5iono-CsO2mPmB-yU7PqYTYPmlMHBLME5afiJw-1Ls/edit?usp=sharing)
+- [Intro slides](https://docs.google.com/presentation/d/12mK0Pb97JYDlBFcjY5Oj19Oj3pDEyVr24oERVmMxH9k/edit?usp=sharing)
 - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/labIntro.ipynb)
 
 <!--- ### Links to Day 1 material 
