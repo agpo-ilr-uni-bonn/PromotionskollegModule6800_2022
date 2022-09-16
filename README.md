@@ -17,8 +17,9 @@ Hugo Storm - University of Bonn, Germany
 
 ### Links to Day 1 material 
 
-<!-- - [Day 1 slides](https://docs.google.com/presentation/d/1K8LWWnomUNXvcnbXxn3eFeeFMTlWYaGFrwLrW0ifjBQ/edit?usp=sharing)
-- [Day 1 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day1.ipynb) -->
+- [Day 1 slides](https://docs.google.com/presentation/d/1K8LWWnomUNXvcnbXxn3eFeeFMTlWYaGFrwLrW0ifjBQ/edit?usp=sharing)
+- [Day 1 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day1.ipynb)
+
 
 ### Links to Day 2 material 
 
