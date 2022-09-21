@@ -28,7 +28,7 @@ Hugo Storm - University of Bonn, Germany
 
 
 ### Links to Day 3 material 
-- [Day 3a slides - Interpretation part II, Shapley values and other approaches](https://docs.google.com/presentation/d/1Z4HdpG8iGX5rpgWLVknOMETb3LwTVmHGR4piSbepO3k/edit?usp=sharing)
+- [Day 3a slides - Interpretation part II, Shapley values and other approaches](https://docs.google.com/presentation/d/1ajDVri8mjvihYwZm2jxYDSqsYmrTeqMfwfrr7LWsJlg/edit?usp=sharing)
 - [Day 3b slides - Neural Networks (also include part of day 4 slides)](https://docs.google.com/presentation/d/1jjtvxiLvUJPOv719tpH08OOpF-_YFuXygWJseNASUoo/edit?usp=sharing)
 - [Day 3-4 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day3-4.ipynb)
 
@@ -36,10 +36,10 @@ Hugo Storm - University of Bonn, Germany
 ### Links to Day 4 material 
 - [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/1jjtvxiLvUJPOv719tpH08OOpF-_YFuXygWJseNASUoo/edit?usp=sharing)
 <!-- 
-- [Day 4b slides - ML and causal analysis (also include part of day 5 slides)](https://docs.google.com/presentation/d/1wNfltZo-vuEHQHKhTKABMulkXLeGju7H7JxuN8YWf-0/edit?usp=sharing)
+- [Day 4b slides - ML and causal analysis (also include part of day 5 slides)](https://docs.google.com/presentation/d/1ZAQX7LWd1e-OUGyXvFib2Q8hSWKIPwwyplV6U4OBrw4/edit?usp=sharing)
 - [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day4-5.ipynb) -->
 
 
 ### Links to Day 5 material 
-<!-- - [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1wNfltZo-vuEHQHKhTKABMulkXLeGju7H7JxuN8YWf-0/edit?usp=sharing)
+<!-- - [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1ZAQX7LWd1e-OUGyXvFib2Q8hSWKIPwwyplV6U4OBrw4/edit?usp=sharing)
 - [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2022/blob/master/6800_Day4-5.ipynb) -->
